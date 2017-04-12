@@ -1,0 +1,28 @@
+body{background:rgba(0,255,255); padding-top: 50px;}
+header,section,aside,footer{background: rgb(0,255,255,);
+}
+img.amor{max-width:30%;height:auto;}
+img.yo{max-width:30%;height:auto;}
+img.foto1{max-width:110%;height:auto;}
+img.foto2{max-width:110%;height:auto;}
+img.foto3{max-width:110%;height:auto;}
+img.foto15{max-width:110%;height:auto;}
+img.foto35{max-width:110%;height:auto;}
+::selection{
+  background-color:rgba(255,155,120,.9);
+}
+
+header {
+  font-family: 'Oleo Script', cursive;
+}
+
+footer {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+section {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+aside {
+  font-family: 'Roboto Condensed', sans-serif;
+}
